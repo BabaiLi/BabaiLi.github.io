@@ -1,2 +1,2 @@
 # 個人主頁
-[https://babaili.github.io](前往)
+[前往](https://babaili.github.io)
